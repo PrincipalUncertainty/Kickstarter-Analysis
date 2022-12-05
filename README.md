@@ -18,13 +18,13 @@ This analysis visualized campaign outcomes based on financial goals of the perfo
 ![Alt text](../../../../c:/Users/cjaso/OneDrive/Desktop/School/Module%201/Crowdfunding%20Analysis/Resources/Outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
-The analysis of this data was accomplished after some adjustments due to combined data in some columns.
+The analysis of this data was accomplished after some adjustments due to combined data in some columns, however the real difficulties emerged with the data being representative of ongoing performances rather than any repeated data points that could point to more essential influencers in the data set.
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 See Analysis
 - What can you conclude about the Outcomes based on Goals?
 See Analysis
 - What are some limitations of this dataset?
-This dataset provides ample data but this analyst 
+This dataset provides ample data but this analyst would like to see more repetitive productions during different months year after year.
 - What are some other possible tables and/or graphs that we could create?
 There are so many
